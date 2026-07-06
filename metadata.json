@@ -1,0 +1,6 @@
+{
+  "name": "Patrator",
+  "description": "Patrator is an interactive, modern, and aesthetically pleasing platform for Extended Producer Responsibility (EPR) services, target calculation, and sustainability compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
